@@ -150,7 +150,7 @@ class MVPN (object):
                 self.runing = self.login()
 
 
-#vpn = MVPN('https://aulavirtual.uij.edu.cu/','obysoft','Obysoft2001@')
+#vpn = MVPN('https://eduvirtual.uho.edu.cu/','chidalgoa','YordanTE12')
 #loged = vpn.login()
 #if loged:
 #    filepath = vpn.download_url('https://www.7-zip.org/a/7z2107.exe')
